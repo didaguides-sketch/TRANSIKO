@@ -84,23 +84,7 @@ export default function ProjectsResults({
         </div>
       )}
 
-      <div>
-        <ResultsToolbar
-          count={filtered.length}
-          sort={sort}
-          onSortChange={(s) => { setSort(s); setPage(1); }}
-          onOpenFilters={() => setMobileFiltersOpen(true)}
-          sortOptions={SORT_OPTIONS}
-          label="programme"
-        />
-
-        {paged.length === 0 ? (
-          <EmptyState
-            onReset={resetAll}
-            title="Aucun programme ne correspond à votre recherche"
-            message="Essayez d'élargir vos critères (wilaya, statut ou type de programme) ou contactez un conseiller Transiko."
-          />
-        ) : (
+      
           <>
             <div className="grid grid-cols-1 gap-5 sm:grid-cols-2 xl:grid-cols-3">
               {paged.map((p) => <ProjectCard key={p.id} project={p} locale={locale} />)}
