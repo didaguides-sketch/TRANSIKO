@@ -7,13 +7,6 @@ import { DEMO_PROJECTS } from "@/data/demo";
 
 const PAGE_SIZE = 6;
 
-const SORT_OPTIONS: SortDefinition[] = [
-  { value: "recent", label: "Plus récents" },
-  { value: "price-asc", label: "Prix croissant" },
-  { value: "price-desc", label: "Prix décroissant" },
-  { value: "delivery-asc", label: "Livraison la plus proche" },
-];
-
 export default function ProjectsResults({
   locale,
   searchParams,
