@@ -1,0 +1,64 @@
+{
+  "meta": {
+    "title": "Transiko Immobilier — Agence immobilière à Alger, Algérie",
+    "description": "Achat, vente et location de villas, appartements, terrains et locaux commerciaux partout en Algérie. Transiko Immobilier, votre partenaire de confiance à Alger."
+  },
+  "nav": {
+    "home": "Accueil",
+    "properties": "Toutes les propriétés",
+    "sale": "Vente",
+    "rent": "Location",
+    "projects": "Nouveaux projets",
+    "agents": "Nos agents",
+    "services": "Services",
+    "about": "À propos",
+    "contact": "Contact",
+    "blog": "Blog",
+    "estimate": "Estimer mon bien",
+    "faq": "FAQ"
+  },
+  "hero": {
+    "eyebrow": "Immobilier en Algérie",
+    "title": "Votre prochaine adresse, à Alger et partout en Algérie",
+    "subtitle": "Villas, appartements, terrains et locaux commerciaux sélectionnés avec soin par Transiko Immobilier.",
+    "searchPlaceholder": "Ville, quartier, référence…",
+    "searchButton": "Rechercher",
+    "buy": "Acheter",
+    "rent": "Louer"
+  },
+  "search": {
+    "listingType": "Transaction",
+    "propertyType": "Type de bien",
+    "wilaya": "Wilaya",
+    "commune": "Commune",
+    "priceMin": "Prix min",
+    "priceMax": "Prix max",
+    "surface": "Surface (m²)",
+    "rooms": "Nombre de pièces",
+    "bathrooms": "Salles de bain",
+    "keyword": "Mot-clé",
+    "submit": "Voir les résultats"
+  },
+  "sections": {
+    "featured": "Propriétés à la une",
+    "latest": "Dernières annonces",
+    "projects": "Nos nouveaux projets",
+    "byWilaya": "Propriétés par wilaya",
+    "byType": "Propriétés par type",
+    "services": "Nos services",
+    "whyUs": "Pourquoi choisir Transiko",
+    "stats": "Transiko en chiffres",
+    "agents": "Notre équipe",
+    "testimonials": "Ce que disent nos clients",
+    "blog": "Derniers articles",
+    "estimate": "Estimez votre bien",
+    "newsletter": "Restez informé"
+  },
+  "footer": {
+    "description": "Votre partenaire de confiance pour l'achat, la vente et la location de biens immobiliers en Algérie.",
+    "navigation": "Navigation",
+    "propertyTypes": "Types de biens",
+    "contact": "Contact",
+    "rights": "Tous droits réservés."
+  }
+}

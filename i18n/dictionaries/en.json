@@ -1,0 +1,64 @@
+{
+  "meta": {
+    "title": "Transiko Immobilier — Real Estate Agency in Algiers, Algeria",
+    "description": "Buy, sell and rent villas, apartments, land and commercial premises across Algeria. Transiko Immobilier, your trusted partner in Algiers."
+  },
+  "nav": {
+    "home": "Home",
+    "properties": "All properties",
+    "sale": "For sale",
+    "rent": "For rent",
+    "projects": "New projects",
+    "agents": "Our agents",
+    "services": "Services",
+    "about": "About us",
+    "contact": "Contact",
+    "blog": "Blog",
+    "estimate": "Estimate my property",
+    "faq": "FAQ"
+  },
+  "hero": {
+    "eyebrow": "Real estate in Algeria",
+    "title": "Your next address, in Algiers and across Algeria",
+    "subtitle": "Villas, apartments, land and commercial premises carefully selected by Transiko Immobilier.",
+    "searchPlaceholder": "City, area, reference…",
+    "searchButton": "Search",
+    "buy": "Buy",
+    "rent": "Rent"
+  },
+  "search": {
+    "listingType": "Transaction",
+    "propertyType": "Property type",
+    "wilaya": "Province (Wilaya)",
+    "commune": "Municipality",
+    "priceMin": "Min price",
+    "priceMax": "Max price",
+    "surface": "Surface (m²)",
+    "rooms": "Rooms",
+    "bathrooms": "Bathrooms",
+    "keyword": "Keyword",
+    "submit": "See results"
+  },
+  "sections": {
+    "featured": "Featured properties",
+    "latest": "Latest listings",
+    "projects": "Our new projects",
+    "byWilaya": "Properties by province",
+    "byType": "Properties by type",
+    "services": "Our services",
+    "whyUs": "Why choose Transiko",
+    "stats": "Transiko in numbers",
+    "agents": "Our team",
+    "testimonials": "What our clients say",
+    "blog": "Latest articles",
+    "estimate": "Estimate your property",
+    "newsletter": "Stay informed"
+  },
+  "footer": {
+    "description": "Your trusted partner for buying, selling and renting property in Algeria.",
+    "navigation": "Navigation",
+    "propertyTypes": "Property types",
+    "contact": "Contact",
+    "rights": "All rights reserved."
+  }
+}

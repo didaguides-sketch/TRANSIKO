@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-heading: "Manrope", system-ui, sans-serif;
+  --font-body: "Inter", system-ui, sans-serif;
+  --font-arabic: "Cairo", system-ui, sans-serif;
+}
+
+html[dir="rtl"] body {
+  font-family: var(--font-arabic);
+}
+
+body {
+  background-color: #faf8f6;
+  color: #20242a;
+}
+
+/* Focus visible pour l'accessibilité clavier */
+:focus-visible {
+  outline: 2px solid #a33449;
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.001ms !important;
+    transition-duration: 0.001ms !important;
+  }
+}
