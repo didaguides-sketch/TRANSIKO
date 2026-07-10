@@ -3,7 +3,7 @@
 import { useMemo, useState } from "react";
 import ProjectCard from "./ProjectCard";
 import ProjectFiltersPanel, { ProjectFilters } from "./ProjectFiltersPanel";
-import ResultsToolbar, { SortDefinition } from "@/components/properties/ResultsToolbar";
+import ResultsToolbar, { SortDefinition } from "@/components/ui/ResultsToolbar";
 import EmptyState from "@/components/properties/EmptyState";
 import { DEMO_PROJECTS } from "@/data/demo";
 
